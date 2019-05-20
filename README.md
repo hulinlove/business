@@ -1,10 +1,8 @@
-# jd-vue
 
-> 仿京东手机电商 ES6 vue2.0 vuex
+# jd-vue
 
 ## Build Setup
 
-``` bash
 # install dependencies
 npm install
 
@@ -22,6 +20,5 @@ npm run unit
 
 # run all tests
 npm test
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+# business
+一个纯前端的基于vue的电商项目
