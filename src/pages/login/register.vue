@@ -32,6 +32,8 @@ export default {
       if (!verifyEmpty(this.mobile)) {
         this.showTip = true
         this.text = '请设置用户名'
+
+
         return
       }
       if (!verifyEmpty(this.password)) {
