@@ -1,5 +1,4 @@
-// 引入其他的mock数据文件
-require('./articles')
+
 // 商品详情
 require('./ware/wareDetail')
 // 购物车
